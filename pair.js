@@ -66,7 +66,6 @@ ______________________________________
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
 ║❒ *Repo:* _https://github.com/Bryanlover1/Luffy-Md_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/DVpRj3FVHFQDYxploAvjI5_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L_
