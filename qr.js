@@ -14,14 +14,13 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN LUFFY-MD 』*
+║ *『 WOW YOU'VE CHOSEN KHAOS-XMD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Repo:* _https://github.com/Bryanlover1/Luffy-Md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/DVpRj3FVHFQDYxploAvjI5_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L_
+║❒ *Repo:* _https://github.com/Bryanlover1/KHAOS-XMD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/GKLnLf1tBP5DyyzsgclPac_
 ╚════════════════════════╝
 
 `
