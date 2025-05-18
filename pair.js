@@ -57,18 +57,17 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let LUFFY_MD_TEXT = `
-*_Pair Code Connected by Bryan Tech_*
+*_Pair Code Connected by 𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘_*
 *_Made With 🍀_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN LUFFY-MD 』*
+║ *『 WOW YOU CHOOSEN KHAOS-XMD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Repo:* _https://github.com/Bryanlover1/Luffy-Md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/DVpRj3FVHFQDYxploAvjI5_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L_
+║❒ *Repo:* _https://github.com/Bryanlover1/KHAOS-XMD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/GKLnLf1tBP5DyyzsgclPac_
 ╚══════════════════════╝ 
 _____________________________________
 
